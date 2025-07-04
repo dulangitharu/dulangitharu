@@ -33,12 +33,7 @@
 
 ----
 </h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
-
 <br/>
-
------
 Credits: [dulangi tharusha ](https://github.com/dulangitharu)
 
 Last Edited on: 30/11/2024
